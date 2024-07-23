@@ -1,9 +1,16 @@
-<img src="https://github.com/user-attachments/assets/08f4f194-213c-47d0-a46e-d4ff1a28dc0d" alt="WhatsApp Image 2024-07-23 at 10 18 31 (1)" width="200"/>
-<img src="https://github.com/user-attachments/assets/614fb893-f777-4688-ab23-1ac893978737" alt="WhatsApp Image 2024-07-23 at 10 18 31" width="200"/>
-<img src="https://github.com/user-attachments/assets/cc99a52d-a763-45d0-8ab4-eec02e3e171c" alt="WhatsApp Image 2024-07-23 at 10 18 30" width="200"/>
+Detect object trough phone camera and translate it into three different languages in real-time:
+
 <img src="https://github.com/user-attachments/assets/c271b3b0-58cc-45cf-818a-a5a6b8e71bf5" alt="WhatsApp Image 2024-07-23 at 10 18 29" width="200"/>
 <img src="https://github.com/user-attachments/assets/34035bf5-60d6-426e-b549-3737aa36286f" alt="WhatsApp Image 2024-07-23 at 10 18 41 (2)" width="200"/>
 <img src="https://github.com/user-attachments/assets/b66ef365-0c3c-43ce-93b8-a40fbd2e0c6f" alt="WhatsApp Image 2024-07-23 at 10 18 41 (1)" width="200"/>
+
+
+
+Detect object from phone storage or from provided images and translate it in three different languages:
+
+<img src="https://github.com/user-attachments/assets/08f4f194-213c-47d0-a46e-d4ff1a28dc0d" alt="WhatsApp Image 2024-07-23 at 10 18 31 (1)" width="200"/>
+<img src="https://github.com/user-attachments/assets/614fb893-f777-4688-ab23-1ac893978737" alt="WhatsApp Image 2024-07-23 at 10 18 31" width="200"/>
+<img src="https://github.com/user-attachments/assets/cc99a52d-a763-45d0-8ab4-eec02e3e171c" alt="WhatsApp Image 2024-07-23 at 10 18 30" width="200"/>
 <img src="https://github.com/user-attachments/assets/0b54d96f-0bbe-4e1b-93a3-a9d36e9bb666" alt="WhatsApp Image 2024-07-23 at 10 18 41" width="200"/>
 <img src="https://github.com/user-attachments/assets/9b2f132f-5e50-419e-97dd-110e09aef656" alt="WhatsApp Image 2024-07-23 at 10 18 40 (1)" width="200"/>
 <img src="https://github.com/user-attachments/assets/e8ab619c-09ba-41d4-a0a9-a7e91992a88d" alt="WhatsApp Image 2024-07-23 at 10 18 40" width="200"/>
